@@ -5,7 +5,7 @@
 
 #include <AP_Common.h>
 
-// Global parameter class.
+// Global parameter class
 //
 class Parameters {
 public:
